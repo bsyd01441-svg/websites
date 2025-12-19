@@ -1,6 +1,4 @@
-# User manual
-
-[[toc]]
+# User manuatoc]]
 
 ## Start Shizuku
 
